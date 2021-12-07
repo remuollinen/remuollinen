@@ -4,4 +4,4 @@
 
 - Student in Full Stack Web Developer program @ [http://en.bc.fi](http://en.bc.fi) 👨‍🎓
 
-![Remu Ollinen's Github Stats](https://github-readme-stats.vercel.app/api?username=remuollinen&show_icons=true&theme=radical)
+![Remu Ollinen Github Stats](https://github-readme-stats.vercel.app/api?username=remuollinen&show_icons=true&theme=radical)
