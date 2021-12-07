@@ -4,6 +4,8 @@ I got bitten by the developer bug back in November 2020 and I've been building s
 
 - Student in Full Stack Web Developer program @ Business College Helsinki 👨‍🎓
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 <!--
 **remuollinen/remuollinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
