@@ -4,4 +4,4 @@
 
 - Student in Full Stack Web Developer program @ [Business College Helsinki](http://en.bc.fi) 👨‍🎓
 
-- Currently working on an eCommerce project for school 👨‍💻
+- Currently working on an eCommerce group project for school 👨‍💻
