@@ -5,5 +5,3 @@
 - Student in Full Stack Web Developer program @ [Business College Helsinki](http://en.bc.fi) 👨‍🎓
 
 - Currently working on an eCommerce project for school 👨‍💻
-
-![Remu Ollinen Github Stats](https://github-readme-stats.vercel.app/api?username=remuollinen&show_icons=true&theme=great-gatsby)
